@@ -4,6 +4,6 @@ An IPS patch generator for MDDR.<br>
 The structure of a MDDR IPS patch is pretty easy to understand.
 ### Header
 The header starts with the word "PATCH".<br>
-[Patch Header](https://raw.githubusercontent.com/3pm-on-github/mddr-ipspatchgen/refs/heads/main/assets/patchheader.png)<br>
+<img src="./assets/patchheader.png" alt="Example of Patch Header"/>
 Then, the Patch Name follows the word, and ends with 0x00 as an EOF.<br>
-[Patch Name](https://raw.githubusercontent.com/3pm-on-github/mddr-ipspatchgen/refs/heads/main/assets/patchname.png)<br>
+<img src="./assets/patchname.png" alt="Example of Patch Name"/>
